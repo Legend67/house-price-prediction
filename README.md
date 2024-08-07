@@ -93,16 +93,16 @@ Contains styling for the web application to ensure a modern and user-friendly in
 
 ## Screenshots
 
-1. ### Server
+### 1. Server
 ![image](https://github.com/user-attachments/assets/559a1860-d5f7-428d-99e6-9c2d6d19ceb2)
 
-2. ### Home Page
+### 2. Home Page
 ![image](https://github.com/user-attachments/assets/a08f0aee-a7b0-4d34-b235-91a261602985)
 
-3. ### Sample Data 
+### 3. Sample Data 
 ![image](https://github.com/user-attachments/assets/e6cc5603-3c47-49b3-b25f-afb090f5bd31)
 
-4. ### Prediction Result
+### 4. Prediction Result
 ![image](https://github.com/user-attachments/assets/accf0a45-14d0-40de-959e-cedb72d690cc)
 
 ## Dependencies
