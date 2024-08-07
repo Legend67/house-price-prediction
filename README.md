@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ```
 4. Download or Train the Model
 
-If the model files (house_price_model.pkl and scaler.pkl) are not provided, you can train and save them by running:
+If the model files (**house_price_model.pkl** and **scaler.pkl**) are not provided, you can train and save them by running:
 
 ```bash
 python model.py
