@@ -1,4 +1,19 @@
 {
+"version": 2,
+"builds": [
+{
+"src": "app.py",
+"use": "@vercel/python"
+}
+],
+"redirects": [
+{
+"source": "/",
+"destination": "app.py"
+}
+]
+}
+{
     "functions": {
         "api/**": {
             "excludeFiles": "{.next,*.cache,node_modules,public,app}/**"
